@@ -3,8 +3,8 @@
 class Axclick < Formula
   desc "Click anything on your Mac with the keyboard"
   homepage "https://github.com/5uvarna/axclick"
-  url "https://github.com/5uvarna/axclick/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "a1691f68953969ee10491beaebdf8a1de5d1dccc8403f17c8ec7925c4d26c83a"
+  url "https://github.com/5uvarna/axclick/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "667a3e075b86ba720e93a7f28b481e8c86decf84f00bf9fbdea7d5e0914f184b"
   license "GPL-3.0-only"
   head "https://github.com/5uvarna/axclick.git", branch: "main"
 
