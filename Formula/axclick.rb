@@ -3,7 +3,8 @@
 class Axclick < Formula
   desc "Click anything on your Mac with the keyboard"
   homepage "https://github.com/5uvarna/axclick"
-  url "https://github.com/5uvarna/axclick/archive/refs/tags/v0.3.3.tar.gz"
+  # The source tarball attached to the GitHub release, so GitHub counts each install as a download.
+  url "https://github.com/5uvarna/axclick/releases/download/v0.3.3/axclick-0.3.3.tar.gz"
   sha256 "948bcf20adbbf6a743ae1aa20508b6f44990e6f9ecd34d4b768f031b290a6d8c"
   license "GPL-3.0-only"
   head "https://github.com/5uvarna/axclick.git", branch: "main"
